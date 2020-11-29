@@ -1,0 +1,43 @@
+
+void  ogrBilgileri(string a,string b,int c,int d)
+{
+                ad = a;
+                soyad = b;
+                ogr_no = c;
+                yas = d;
+
+}
+
+void musteriBilgileri(string a,string b,int c, strinng d,int e)
+{
+                ad = a;
+                soyad =b ;
+                yas =c ;
+                meslek = d;
+                maas =e ;
+
+}
+
+namespace ConsoleApp2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+             musteri ogrenci = new musteri();
+            Console.WriteLine("Öğrencimisin?   (e/h)" );
+            string yanıt = Console.ReadLine();
+            if (yanıt=="e")
+            {
+                musteri.ogrBilgileri("Hasan","KAYA",221903054,19)
+                // Öğrenci bilgilerini yazdır fonksiyonla
+
+            }
+            else if (yanıt == "h")
+            {
+               musteri.musteriBilgileri("Burak","YILDIRIM",36,"Yazılım Mühendisi",5260);
+              // Müşteribilgilerini yazdır fonksiyonla
+            }
+        }
+    }
+}
