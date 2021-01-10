@@ -1,0 +1,14 @@
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\bin\Debug\KafeOtomasyon.exe.config
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\bin\Debug\KafeOtomasyon.exe
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\bin\Debug\KafeOtomasyon.pdb
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.csprojAssemblyReference.cache
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.Properties.Resources.resources
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.csproj.GenerateResource.cache
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.exe
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.pdb
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.Form2.resources
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.frmgiris.resources
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.formsiparis.resources
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.frmgnclle.resources
+C:\Users\Misthios\Desktop\KafeOtomasyon\KafeOtomasyon\obj\Debug\KafeOtomasyon.frmkayit.resources
